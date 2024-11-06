@@ -10,3 +10,5 @@ The technology I used in making the movie website is:
 - Axios
 - Sonner
   
+Demo:
+https://streamflix-nabil.vercel.app/
