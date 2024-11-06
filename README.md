@@ -1,8 +1,12 @@
-# React + Vite
+# Frontend Test Flitts
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The following is a github repository that contains a project to create a movie website using api from TMDB and has been hosted on the vercel service.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The technology I used in making the movie website is:
+- React.js
+- React Context
+- API TMDB
+- Tailwind CSS (Daisy UI)
+- Axios
+- Sonner
+  
